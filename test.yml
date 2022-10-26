@@ -1,0 +1,6 @@
+{
+  "user_passwords": {
+    "admin": "my_admin_password",
+    "rabbitclient": "my_rabbitclient_password"
+  }
+}
